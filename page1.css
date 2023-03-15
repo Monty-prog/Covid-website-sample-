@@ -1,0 +1,131 @@
+body{
+    background-image: url(bg.jpg) ;
+}
+
+h1{
+    background-color: rgb(182, 225, 246);
+    text-align: center;
+    margin-left: 500px;
+    margin-right: 500px;
+    color: red;
+    
+}
+
+.evolution{
+    margin-left: 40px;
+    color: red;
+}
+
+.come{
+    margin-left: 40px;
+    color: red;
+}
+
+.p1{
+    
+    font-size: 20px;
+}
+
+.corona{
+    
+    float: right;
+}
+
+
+
+.p2{
+
+    font-size: 20px;
+    margin-left: 40px;
+}
+
+
+
+.p3{
+    
+    font-size: 20px;
+    margin-left: 40px;
+    
+}
+iframe{
+    margin-left: 100px;
+}
+
+div{
+    background-color: rgb(182, 225, 246);
+    margin-left: 100px;
+    margin-right: 550px;
+}
+
+.div2{
+    background-color: rgb(182, 225, 246);
+    margin-left: 100px;
+    margin-right: 100px;
+    padding-bottom: px;
+    
+}
+
+.structure{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.structure2{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.video2{
+
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 30px;
+}
+.link1{
+    
+    margin-top: 100px;
+   
+}
+
+li a{
+    color: black;
+}
+
+li a:hover{
+    background-color: #16524e;
+}
+
+li {
+    
+    list-style-type: none;
+    float: left;
+    margin: 10px;
+    font-size: 20px;
+      
+}
+
+img{
+    
+    margin-top: 50px;
+}
+
+.doctor{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.drugs{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.people{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
